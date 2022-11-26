@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gaming-e-commerce/static/css/main.a62f92bd.css",
-    "main.js": "/gaming-e-commerce/static/js/main.df1cdc58.js",
+    "main.js": "/gaming-e-commerce/static/js/main.41fdabe2.js",
     "static/media/marvels-spider-man-miles-morales-playstation-5-2020-games-3840x2160-3112.jpg": "/gaming-e-commerce/static/media/marvels-spider-man-miles-morales-playstation-5-2020-games-3840x2160-3112.7500b7509e014336a9df.jpg",
     "static/media/wallpapersden.com_god-of-war-ragnarok-2021-hd-gaming_3840x2160.jpg": "/gaming-e-commerce/static/media/wallpapersden.com_god-of-war-ragnarok-2021-hd-gaming_3840x2160.812510305a8deefb0f42.jpg",
     "static/media/331875.jpg": "/gaming-e-commerce/static/media/331875.f4f76f7c746984632f67.jpg",
@@ -12,10 +12,10 @@
     "static/media/download (1).jfif": "/gaming-e-commerce/static/media/download (1).4b130c05f8411688623f.jfif",
     "index.html": "/gaming-e-commerce/index.html",
     "main.a62f92bd.css.map": "/gaming-e-commerce/static/css/main.a62f92bd.css.map",
-    "main.df1cdc58.js.map": "/gaming-e-commerce/static/js/main.df1cdc58.js.map"
+    "main.41fdabe2.js.map": "/gaming-e-commerce/static/js/main.41fdabe2.js.map"
   },
   "entrypoints": [
     "static/css/main.a62f92bd.css",
-    "static/js/main.df1cdc58.js"
+    "static/js/main.41fdabe2.js"
   ]
 }
