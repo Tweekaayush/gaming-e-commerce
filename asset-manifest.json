@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Gaming-E-commerce/static/css/main.a62f92bd.css",
+    "main.js": "/Gaming-E-commerce/static/js/main.32d5bc24.js",
+    "static/media/marvels-spider-man-miles-morales-playstation-5-2020-games-3840x2160-3112.jpg": "/Gaming-E-commerce/static/media/marvels-spider-man-miles-morales-playstation-5-2020-games-3840x2160-3112.7500b7509e014336a9df.jpg",
+    "static/media/wallpapersden.com_god-of-war-ragnarok-2021-hd-gaming_3840x2160.jpg": "/Gaming-E-commerce/static/media/wallpapersden.com_god-of-war-ragnarok-2021-hd-gaming_3840x2160.812510305a8deefb0f42.jpg",
+    "static/media/331875.jpg": "/Gaming-E-commerce/static/media/331875.f4f76f7c746984632f67.jpg",
+    "static/media/4xJ8XB3bi888QTLZYdl7Oi0s.webp": "/Gaming-E-commerce/static/media/4xJ8XB3bi888QTLZYdl7Oi0s.4027eb694332f27edcd3.webp",
+    "static/media/most-immersive-open-world-games.avif": "/Gaming-E-commerce/static/media/most-immersive-open-world-games.dcae4b71962f569061d9.avif",
+    "static/media/maxresdefault.jpg": "/Gaming-E-commerce/static/media/maxresdefault.0e7ff7bfb6f72a74a9ba.jpg",
+    "static/media/best-action-games.webp": "/Gaming-E-commerce/static/media/best-action-games.586522c56b673c5a6a5f.webp",
+    "static/media/download (1).jfif": "/Gaming-E-commerce/static/media/download (1).4b130c05f8411688623f.jfif",
+    "index.html": "/Gaming-E-commerce/index.html",
+    "main.a62f92bd.css.map": "/Gaming-E-commerce/static/css/main.a62f92bd.css.map",
+    "main.32d5bc24.js.map": "/Gaming-E-commerce/static/js/main.32d5bc24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a62f92bd.css",
+    "static/js/main.32d5bc24.js"
+  ]
+}
